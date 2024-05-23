@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "super-bidding",
+  "private_key_id": "fjvnfjevjvjfvrjvr",
+  "private_key": "-----BEGIN PRIVATE KEY-----nVqvoinOvf8QUws7zMUuxMLL9CSGvnbhHdkvrrrkrkrkgkrzjk1Jb0o5wH\nBHH6QnurTXwVLtRqucwkYrI4Swmc+lEqOPvseWoZ++6NmZjT2e+ofR4bIKKghiac\neE+ayLprIqZ2RIp3KD0nd5WyuYygDR/oQPyHP44SR20y1T+fesARpLZahmQ+oKXu\n3iD1GyvRAgMBAAECggEANRCWcvRgBwJYzajS08R9UuriGJ1LU/WwBqN8bTOohiGU\nN+5YfeHmbqgzAvcdurjshrfGSJjmHuWtVIDPAAPvFDwF4yhvO0bxx99epTMekDUL\nKOw3LvLpR0k5e0nDvH2aDf8c7QMPaCh8l8wN5ejWDUApiUu1AVj8T17fW5LoaqXx\nJ91lfB2L/9de/CUjp/va6cekvu51aO6utBqhW/C6192q2qYfTY8EbyYN4wJE45ta\nZkNVWqcDMOrH/BC5y1QPg6tsBbUB3PLi2TriMHUZCzNbbQdP0ggCHahgu+BrUiGI\n0t4Jrx4in0mYOrdl5D0k7vy+S9MhtIWPx4lrQy8SUwKBgQDeuHQp+Xedx2t2cJ2W\ngTBokCneYBAcF5vS3ykMdC6TWBNqHDwUAkr5WuWp+pIRIcDGOabGFAdjqjr7aqWo\niVjowl64XgG3Q+Vf8D49Ablpf7uKtESyvAhDz4W7lB3KSzE/8J+4O2RilRZ5I4LI\niIA3ntnQg/QrXGh7anWaZlpSqwKBgQDEMaz3daDEsInJ3J3Ren/+170T7DqqbbSu\nU48pGvmUswn9D48LeT8r+CqgQTA+GQdFbIaHqssMViji6tri5xMrU9J4/7UJGmPT\nvrGu/jb+188vzmdw1Yglcy3JgXwP5jDLTLBH7o2BGYmkKcNTlIMqe0CwRIHUxbTp\nQtY323AbcwKBgQCp4r0I/3dUbLb14zTxhp2sRLsLGu9u3jtIAF1JWJ3mWnqEqADT\nqmQSDFm+7JjaZIqtKXCjCsgQJ9tRx6mRAyNEeG7T5zEb37hpE9IFqvkJFhux04vL\nYk5Tm0oBKRwIII7ynNLYLsWFxP8dbA7oc+aJhqvSt7RaFuTDrxMBsS0YfQKBgE6a\nnHL0lLnZBQt0MWKpErj2lJFz1rlLhNVHMxdD8HSsGrdh0WzGYhHqtqFIHNz0SB5/\ncZLPUdSafH0VnSbFb7+vMKc7w7tm8FH4l9XFkiEeM6sypezmEEr4z4JpN1xjXG9H\nRWU8ZUMxCR1VgiVtXfPaN7unZuDpaSb/mTX92/eTAoGBAJc04rYIcf0tUBAx2l5S\nQ5gcxc7qcRNMBjqnSsUGAmZJe8sqYGFfO2D/ClNcp430NKkejlOH/KfuSTP4bOPQ\ns9cMI/78gVv5mUf4tkh87Jl29Jupnsim7gLFhyl9dllZqdBlRDYdjPyDFKd0vlVK\nfCe8fgzT2wEmlk0W2dt6v2q0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ymule@super-bidding.iam.gserviceaccount.com",
+  "client_id": "10605798132488494848097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/ceaccount.com",
+  "universe_domain": "googleapis.com"
+}
